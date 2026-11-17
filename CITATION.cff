@@ -9,11 +9,9 @@ authors:
     given-names: "Chenghao"
   - family-names: "Cheng"
     given-names: "Hao"
-  - family-names: "Shen"
-    given-names: "Junhai"
-  - family-names: "Gao"
-    given-names: "Xiaoping"
-repository-code: "https://github.com/<your-account>/BiMamba-Transformer"
+  - family-names: "Wang"
+    given-names: "Xiannan"
+repository-code: "https://github.com/duolaoa/BiMamba-Transformer"
 keywords:
   - seismic phase picking
   - earthquake detection
@@ -29,9 +27,7 @@ preferred-citation:
       given-names: "Chenghao"
     - family-names: "Cheng"
       given-names: "Hao"
-    - family-names: "Shen"
-      given-names: "Junhai"
-    - family-names: "Gao"
-      given-names: "Xiaoping"
+    - family-names: "Wang"
+      given-names: "Xiannan"
   journal: "IEEE Transactions on Geoscience and Remote Sensing"
   year: 2026
