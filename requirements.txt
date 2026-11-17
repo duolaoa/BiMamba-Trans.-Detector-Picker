@@ -1,0 +1,22 @@
+# Core scientific stack
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+h5py>=3.8
+scikit-learn>=1.3
+tqdm>=4.65
+
+# PyTorch — install the CUDA build matching your driver first, e.g.
+#   pip install torch --index-url https://download.pytorch.org/whl/cu121
+torch>=2.1
+
+# Plotting
+matplotlib>=3.7
+
+# Mamba selective-scan kernels.
+# mamba-ssm compiles against the local CUDA toolkit; install causal-conv1d first.
+#   pip install causal-conv1d
+#   pip install mamba-ssm
+# Reference environment: mamba_ssm 2.3.2.post1 with torch 2.9.0+cu128.
+mamba-ssm>=2.0
+causal-conv1d>=1.2
